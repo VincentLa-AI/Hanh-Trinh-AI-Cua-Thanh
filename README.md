@@ -1,1 +1,1 @@
-# Hanh-Trinh-AI-Cua-Thanh
+xin chào tôi là Thành, đây là nơi lưu trữ dữ liệu về AI và thực hành AI của tôi
